@@ -5,4 +5,8 @@
  Template:     twentytwentyone
 */
 
-.wp-block-columns.alignfull.front-collection {margin: 0 3%}
+.wp-block-columns.alignfull.front-collection {margin: 0 5%}
+
+.wp-custom-logo .site-header {
+    padding-bottom: inherit;
+}
