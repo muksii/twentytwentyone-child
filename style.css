@@ -10,3 +10,7 @@
 .wp-custom-logo .site-header {
     padding-bottom: inherit;
 }
+
+.site-footer > .site-info .powered-by {
+    display: none;
+}
