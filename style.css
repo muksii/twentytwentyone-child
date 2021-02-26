@@ -14,3 +14,7 @@
 .site-footer > .site-info .powered-by {
     display: none;
 }
+
+#colophon.site-footer {
+	margin-top: 0px;
+}
