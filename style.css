@@ -5,7 +5,8 @@
  Template:     twentytwentyone
 */
 
-.wp-block-columns.alignfull.front-collection {margin: 0 5%}
+.wp-block-columns.alignfull.front-collection {margin: 0 5%; 
+max-width: auto;}
 
 .wp-custom-logo .site-header {
     padding-bottom: inherit;
@@ -28,3 +29,8 @@ h1.page-title {font-size: 50px;}
 .woocommerce-products-header {margin-bottom: -60px;}
 
 ul.products li.product .button {display: none;}
+
+.alignfull, .wp-block-group .wp-block-group__inner-container > *.alignfull, .full-max-width {
+    max-width: fit-content;
+}
+
