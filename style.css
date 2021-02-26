@@ -21,6 +21,10 @@
 
 .wp-block-button {border: none;}
 
-h1.page-title {font-size: 50px}
+h1.page-title {font-size: 50px;}
 
-.orderby {display:none}
+.orderby {display:none;}
+
+.woocommerce-products-header {margin-bottom: -60px;}
+
+ul.products li.product .button {display: none;}
